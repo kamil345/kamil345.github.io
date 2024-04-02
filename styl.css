@@ -1,0 +1,95 @@
+html, body {
+	background-color: #fff;
+	color: #000;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.top {
+	width: 1180px;
+	color: #000;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-color: white;
+}
+
+.NAGLOWEK {
+	background-color: #99ff66;
+	height: 70px;
+	text-align: center;
+}
+
+.MENU {
+	width: 180px;
+	height: 480px;
+	float: left;
+	overflow: hidden;
+	background-color: #4ce600;
+	font-size: 150%;
+	text-align: center
+	padding: 2px 2px 2px 2px
+
+}
+
+.MENU li {
+	padding-left: 10px;
+}
+
+.TRESC {
+	width: 1000px;
+	height: 480px;
+	overflow: hidden;
+	background-color: #bbff99;
+	text-align: center;
+	font-size: 35px;
+}
+
+.tabelka {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 35px;
+	width:105%;
+	padding-right: 45px;
+}
+
+.tabelka2 {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 35px;
+	width:105%;
+	padding-left: 50px;
+}
+
+.rosliny {
+  margin: 5px;
+  border: 1px solid #3bb300;
+  width: 200px;
+  float: left;
+}
+
+.rosliny img {
+  width: 100%;
+  height: auto;
+}
+
+
+a:link {
+  color: #194d00;
+}
+
+a:visited {
+  color: #194d00;
+}
+
+.menu_tytul {
+	text-align: center;
+}
+
+.tekst {
+padding-top: 5px;
+font-size: 55px;
+color: #2a8000;
+font-weight: bold;
+}
